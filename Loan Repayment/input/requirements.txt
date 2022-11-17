@@ -38,7 +38,7 @@ cryptography==2.2.2
 cycler==0.10.0
 Cython==0.28.2
 cytoolz==0.9.0.1
-dask==0.17.5
+dask==2021.10.0
 datashape==0.5.4
 decorator==4.3.0
 distributed==1.21.8
@@ -164,7 +164,7 @@ QtAwesome==0.4.4
 qtconsole==4.3.1
 QtPy==1.4.1
 requests==2.18.4
-rope==0.10.7
+rope==0.11.0
 ruamel-yaml==0.15.35
 s3fs==0.1.5
 s3transfer==0.1.13
