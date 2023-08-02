@@ -34,7 +34,7 @@ conda-build==3.10.5
 conda-verify==2.0.0
 contextlib2==0.5.5
 coverage==4.5.1
-cryptography==2.2.2
+cryptography==41.0.3
 cycler==0.10.0
 Cython==0.28.2
 cytoolz==0.9.0.1
@@ -179,7 +179,7 @@ six==1.11.0
 snowballstemmer==1.2.1
 sortedcollections==0.6.1
 sortedcontainers==1.5.10
-Sphinx==1.7.4
+Sphinx==3.3.0
 sphinxcontrib-websupport==1.0.1
 spyder==3.2.8
 SQLAlchemy==1.2.7
