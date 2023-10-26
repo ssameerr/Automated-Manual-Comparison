@@ -34,7 +34,7 @@ conda-build==3.10.5
 conda-verify==2.0.0
 contextlib2==0.5.5
 coverage==4.5.1
-cryptography==2.2.2
+cryptography==41.0.5
 cycler==0.10.0
 Cython==0.28.2
 cytoolz==0.9.0.1
@@ -199,7 +199,7 @@ urllib3==1.22
 virtualenv==16.0.0
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==3.0.1
 widgetsnbextension==3.2.1
 wrapt==1.10.11
 xlrd==1.1.0
